@@ -21,8 +21,8 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [
     "History.txt".freeze, "LICENSE.txt".freeze, "MAINTAINERS.txt".freeze,
     "MIT.txt".freeze, "Manifest.txt".freeze, "README.md".freeze,
-    "UPGRADING.rdoc".freeze, "POLICIES.rdoc".freeze, "CODE_OF_CONDUCT.md".freeze,
-    "CONTRIBUTING.rdoc".freeze, "bundler/CHANGELOG.md".freeze, "bundler/CODE_OF_CONDUCT.md".freeze,
+    "UPGRADING.md".freeze, "POLICIES.md".freeze, "CODE_OF_CONDUCT.md".freeze,
+    "CONTRIBUTING.md".freeze, "bundler/CHANGELOG.md".freeze, "bundler/CODE_OF_CONDUCT.md".freeze,
     "bundler/CONTRIBUTING.md".freeze, "bundler/LICENSE.md".freeze, "bundler/README.md".freeze,
     "hide_lib_for_update/note.txt".freeze, *Dir["bundler/man/*.1"]
   ]
